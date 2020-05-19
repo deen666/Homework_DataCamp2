@@ -1,3 +1,3 @@
 Thatapon Samtalee
 
-Quiz Python Crash Course Part 1
+Quiz Python Crash Course Part 2
